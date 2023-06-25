@@ -1,215 +1,433 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="BA - Band FM 99.1" tvg-logo="https://i.imgur.com/Hn2dcHs.png" group-title="RADIO", BA - Band FM 99.1
-http://lista.iptvagora.com:25461/8967027327/027327/936
-#EXTINF: -1 tvg-name="BA - CBN FM 100.7" tvg-logo="https://i.imgur.com/1y2rJDc.png" group-title="RADIO", BA - CBN FM 100.7
-http://lista.iptvagora.com:25461/8967027327/027327/937
-#EXTINF: -1 tvg-name="BA - Feliz FM 92.3" tvg-logo="https://i.imgur.com/p91i8jA.png" group-title="RADIO", BA - Feliz FM 92.3
-http://lista.iptvagora.com:25461/8967027327/027327/938
-#EXTINF: -1 tvg-name="BA - GFM 90.1" tvg-logo="https://i.imgur.com/i1wGf2c.png" group-title="RADIO", BA - GFM 90.1
-http://lista.iptvagora.com:25461/8967027327/027327/939
-#EXTINF: -1 tvg-name="DF - Hunter 80s" tvg-logo="https://img.radios.com.br/radio/xl/radio91345_1595425743.png" group-title="RADIO", DF - Hunter 80s
-http://lista.iptvagora.com:25461/8967027327/027327/940
-#EXTINF: -1 tvg-name="DF - HUNTER FM 102.7" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/a9/19878/2/c175.png" group-title="RADIO", DF - HUNTER FM 102.7
-http://lista.iptvagora.com:25461/8967027327/027327/941
-#EXTINF: -1 tvg-name="DF - Hunter Fresh" tvg-logo="https://br.radio.net/images/broadcasts/5f/b4/110475/2/c300.png" group-title="RADIO", DF - Hunter Fresh
-http://lista.iptvagora.com:25461/8967027327/027327/942
-#EXTINF: -1 tvg-name="DF - Hunter Gospel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/he6mkymnzs2n.png" group-title="RADIO", DF - Hunter Gospel
-http://lista.iptvagora.com:25461/8967027327/027327/943
-#EXTINF: -1 tvg-name="DF - Hunter LO-FI" tvg-logo="https://img.radios.com.br/radio/xl/radio120432_1602612596.png" group-title="RADIO", DF - Hunter LO-FI
-http://lista.iptvagora.com:25461/8967027327/027327/944
-#EXTINF: -1 tvg-name="DF - Hunter Pisadinha" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3udcha56mds5.png" group-title="RADIO", DF - Hunter Pisadinha
-http://lista.iptvagora.com:25461/8967027327/027327/945
-#EXTINF: -1 tvg-name="DF - Hunter POP2KS" tvg-logo="https://img.radios.com.br/radio/xl/radio38261_1595424752.png" group-title="RADIO", DF - Hunter POP2KS
-http://lista.iptvagora.com:25461/8967027327/027327/946
-#EXTINF: -1 tvg-name="DF - Hunter Rock" tvg-logo="https://img.radios.com.br/radio/xl/radio120437_1595424693.png" group-title="RADIO", DF - Hunter Rock
-http://lista.iptvagora.com:25461/8967027327/027327/947
-#EXTINF: -1 tvg-name="DF - Hunter Sertanejo" tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png" group-title="RADIO", DF - Hunter Sertanejo
-http://lista.iptvagora.com:25461/8967027327/027327/948
-#EXTINF: -1 tvg-name="DF - Hunter Tropical" tvg-logo="https://img.radios.com.br/radio/lg/radio37178_1595425677.png" group-title="RADIO", DF - Hunter Tropical
-http://lista.iptvagora.com:25461/8967027327/027327/949
-#EXTINF: -1 tvg-name="DF - Joven Pan FM 106.3" tvg-logo="https://i.imgur.com/r5v8n4E.png" group-title="RADIO", DF - Joven Pan FM 106.3
-http://lista.iptvagora.com:25461/8967027327/027327/950
-#EXTINF: -1 tvg-name="DF - Kiss FM 102.3" tvg-logo="https://cdn-radiotime-logos.tunein.com/s231046g.png" group-title="RADIO", DF - Kiss FM 102.3
-http://lista.iptvagora.com:25461/8967027327/027327/951
-#EXTINF: -1 tvg-name="DF - Transamerica FM 100.1" tvg-logo="https://i.imgur.com/yrmP8wj.png" group-title="RADIO", DF - Transamerica FM 100.1
-http://lista.iptvagora.com:25461/8967027327/027327/952
-#EXTINF: -1 tvg-name="MG - 98.0 FM" tvg-logo="https://98live.com.br/share.png" group-title="RADIO", MG - 98.0 FM
-http://lista.iptvagora.com:25461/8967027327/027327/953
-#EXTINF: -1 tvg-name="MG - Cultura FM 95.1" tvg-logo="https://radioculturafm.com.br/wp-content/themes/culturafm/img/logo.png" group-title="RADIO", MG - Cultura FM 95.1
-http://lista.iptvagora.com:25461/8967027327/027327/954
-#EXTINF: -1 tvg-name="RJ - BeatPlay FM" tvg-logo="https://www.beatplay.com.br/wp-content/uploads/2020/07/logo-2019-beat.png" group-title="RADIO", RJ - BeatPlay FM
-http://lista.iptvagora.com:25461/8967027327/027327/955
-#EXTINF: -1 tvg-name="RJ - JB FM 99.9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="RADIO", RJ - JB FM 99.9
-http://lista.iptvagora.com:25461/8967027327/027327/956
-#EXTINF: -1 tvg-name="RJ - Tupi FM 96.5" tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="RADIO", RJ - Tupi FM 96.5
-http://lista.iptvagora.com:25461/8967027327/027327/957
-#EXTINF: -1 tvg-name="RS - 104 FM" tvg-logo="https://i.imgur.com/5C09ns2.png" group-title="RADIO", RS - 104 FM
-http://lista.iptvagora.com:25461/8967027327/027327/958
-#EXTINF: -1 tvg-name="RS - 92. FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_92_FM_%28Porto_Alegre%29.png" group-title="RADIO", RS - 92. FM
-http://lista.iptvagora.com:25461/8967027327/027327/959
-#EXTINF: -1 tvg-name="RS - Alegria FM 92.9" tvg-logo="https://i.imgur.com/fGNvKsw.jpg" group-title="RADIO", RS - Alegria FM 92.9
-http://lista.iptvagora.com:25461/8967027327/027327/960
-#EXTINF: -1 tvg-name="RS - Atlântida FM 94.3" tvg-logo="https://i.imgur.com/4jgmmDU.png" group-title="RADIO", RS - Atlântida FM 94.3
-http://lista.iptvagora.com:25461/8967027327/027327/961
-#EXTINF: -1 tvg-name="RS - Gaúcha FM 93.7" tvg-logo="https://i.imgur.com/D1a20JF.jpg" group-title="RADIO", RS - Gaúcha FM 93.7
-http://lista.iptvagora.com:25461/8967027327/027327/962
-#EXTINF: -1 tvg-name="RS - Guaíba FM 101.3" tvg-logo="https://img.radios.com.br/radio/xl/radio13174_1481549973.png" group-title="RADIO", RS - Guaíba FM 101.3
-http://lista.iptvagora.com:25461/8967027327/027327/963
-#EXTINF: -1 tvg-name="RS - Itapema FM 102.3" tvg-logo="https://i.imgur.com/lxqiMIh.jpg" group-title="RADIO", RS - Itapema FM 102.3
-http://lista.iptvagora.com:25461/8967027327/027327/964
-#EXTINF: -1 tvg-name="RS - JovenPan FM 97.5" tvg-logo="https://i.imgur.com/r5v8n4E.png" group-title="RADIO", RS - JovenPan FM 97.5
-http://lista.iptvagora.com:25461/8967027327/027327/965
-#EXTINF: -1 tvg-name="SP - Antena 1 FM 94.7" tvg-logo="https://i.imgur.com/pkDiXsh.jpg" group-title="RADIO", SP - Antena 1 FM 94.7
-http://lista.iptvagora.com:25461/8967027327/027327/966
-#EXTINF: -1 tvg-name="SP - Coca Cola FM" tvg-logo="https://static-media.streema.com/media/cache/c4/fb/c4fbfa284a8f9f634b0e6a821f05abb3.jpg" group-title="RADIO", SP - Coca Cola FM
-http://lista.iptvagora.com:25461/8967027327/027327/967
-#EXTINF: -1 tvg-name="SP - Mix FM 106.3" tvg-logo="https://i.imgur.com/0n1bOIe.png" group-title="RADIO", SP - Mix FM 106.3
-http://lista.iptvagora.com:25461/8967027327/027327/968
-#EXTINF: -1 tvg-name="SP - Radio Globo FM 92.5" tvg-logo="https://radioamantes.files.wordpress.com/2017/06/rc3a1dio-globo.png?w=640" group-title="RADIO", SP - Radio Globo FM 92.5
-http://lista.iptvagora.com:25461/8967027327/027327/969
-#EXTINF: -1 tvg-name="SP - Top FM 100.5" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e80f8f53dd91ff9884892eec1a70932d.png" group-title="RADIO", SP - Top FM 100.5
-http://lista.iptvagora.com:25461/8967027327/027327/970
-#EXTINF: -1 tvg-name="SP - Tropical FM 107.9" tvg-logo="https://i.imgur.com/c5i9PVF.png" group-title="RADIO", SP - Tropical FM 107.9
-http://lista.iptvagora.com:25461/8967027327/027327/971
-#EXTINF: -1 tvg-name="AL - Difusora AM 960" tvg-logo="https://i.imgur.com/KNLvkGz.jpg" group-title="RADIO", AL - Difusora AM 960
-http://lista.iptvagora.com:25461/8967027327/027327/972
-#EXTINF: -1 tvg-name="AL - Gazeta AM 1260" tvg-logo="https://i.imgur.com/dfoALxP.jpg" group-title="RADIO", AL - Gazeta AM 1260
-http://lista.iptvagora.com:25461/8967027327/027327/973
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-h16I2Hbm20o/WnJZga5x8uI/AAAAAAAABRk/Z11lWBCE9tUaTBHa8KFvGqg00F30T8p-wCPcBGAYYCw/s1600/google-play-logo.png" group-title="RADIO 2", RadioP70 - Web Radio
-http://45.43.200.194:12728/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Infantil
-http://192.99.150.31:8371/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Jazz
-http://192.99.150.31:8042/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Roberto Carlos
-http://192.99.150.31:9137/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Rap Nacional
-http://192.99.150.31:8377/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Jovem Guarda
-http://192.99.150.31:8801/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Hip Hop BR
-http://192.99.150.31:8721/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Funk Proibidão
-http://192.99.150.31:9089/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio R&B
-https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio K-Pop
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Folk
-https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Gospel
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Reggae
-https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Rock
-https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Forró
-https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Pop
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Latina
-https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Eletrônica
-https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Hip-Hop
-https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Funk
-https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Rock
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Sertanejo
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Sertanejo Romântico
-https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Anos 80
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Anos 90
-https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Anos 2000
-https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Pop Nacional
-https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Pop Rock Nacional
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio J-Pop
-https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RADIO 2", Rádio Românticas
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/TmycWPZ.png" group-title="RADIO 2", Rádio Cachoeira AM
-http://centova.welltecnologia.com.br:8096/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/cvHzRir.png" group-title="RADIO 2", Rádio Nova FM
-http://stm45.streamingbage.net.br:11454/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/55zvsZG.png" group-title="RADIO 2", Rádio Clube Bagé AM
-http://stm7.streamingbage.net.br:16766/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/Ivdf27M.png" group-title="RADIO 2", Rádio Alegria FM
-http://stream.ouveai.com.br:8061/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/rMmdaYl.png" group-title="RADIO 2", Rádio Esperança AM
-http://200.175.79.171:8000/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/6sLoNZn.png" group-title="RADIO 2", Rádio Itapema FM
-http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/ClakDxW.png" group-title="RADIO 2", Rádio Novo Tempo FM
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/8U3B3Lw.png" group-title="RADIO 2", Rádio Guaíba FM/AM
-http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/dT8ZOeg.png" group-title="RADIO 2", Rádio Atlântida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/3ku6dPr.png" group-title="RADIO 2", Rádio Band News FM
-http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/WZrYSBf.gif" group-title="RADIO 2", Rádio Farroupilha FM/AM
-http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/MlwaApi.jpg" group-title="RADIO 2", Rádio Gaúcha FM/AM
-http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/dZKe7DK.jpg" group-title="RADIO 2", Rádio Bandeirantes FM/AM
-http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/jXGTFcR.png" group-title="RADIO 2", Gr6 Explode FM
-http://216.245.204.227:8054/live
-#EXTINF: -1 tvg-logo="http://i.imgur.com/QhSS71Q.png" group-title="RADIO 2", Rádio FM O Dia
-http://audio.bb07.upx.net.br:8058/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/rV5HHXO.png" group-title="RADIO 2", Rádio Mix FM
-http://mixaac.crossradio.com.br:1100/live
-#EXTINF: -1 tvg-logo="http://i.imgur.com/NeJf46K.jpg" group-title="RADIO 2", Rádio Coca Cola FM
-http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
-#EXTINF: -1 tvg-logo="http://i.imgur.com/x3j3rYJ.png" group-title="RADIO 2", Rádio Mania FM
-http://radio.servercsi.com.br:8595/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/O9dknve.png" group-title="RADIO 2", Rádio Transamerica FM
-http://transamerica.crossradio.com.br:9114/live.mp3
-#EXTINF: -1 tvg-logo="http://i.imgur.com/oRYDaYf.png" group-title="RADIO 2", Rádio Jovem Pan FM
-http://centova6.ciclanohost.com.br:9256/;
-#EXTINF: -1 tvg-logo="http://i.imgur.com/IGzepM4.png" group-title="RADIO 2", Rádio 99.5 FM
-http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/LZk3Bt6.png" group-title="RADIO 2", Rádio 104 FM
-http://noasrv.caster.fm:10127/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/TKZ90g5.png" group-title="RADIO 2", Rádio Eldorado FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/XtpLtUe.png" group-title="RADIO 2", Rádio Pampa FM
-http://noasrv.caster.fm:10128/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/ttPklRN.png" group-title="RADIO 2", Rádio Liberdade FM
-http://noasrv.caster.fm:10129/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/OC6JEfB.png" group-title="RADIO 2", Rádio Continental FM
-http://noasrv.caster.fm:10126/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/C79VBmi.png" group-title="RADIO 2", Rádio Caiçara FM/AM
-http://noasrv.caster.fm:10130/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/Vshg5E2.png" group-title="RADIO 2", Rádio Capão FM
-http://noasrv.caster.fm:10131/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/UIqr0bU.png" group-title="RADIO 2", Rádio Praia FM
-http://noasrv.caster.fm:10132/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/9Pu8H7t.png" group-title="RADIO 2", Rádio Grenal FM
-http://noasrv.caster.fm:10115/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/rEXCYFB.png" group-title="RADIO 2", Rádio Tramandaí FM
-http://noasrv.caster.fm:10133/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/n64bR7b.png" group-title="RADIO 2", Rádio FM Premium
-http://noasrv.caster.fm:10125/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/piuWrsL.png" group-title="RADIO 2", Rádio Xangri-lá FM
-http://noasrv.caster.fm:10137/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/I5y8DaH.png" group-title="RADIO 2", Rádio Princesa FM
-http://noasrv.caster.fm:10124/stream
-#EXTINF: -1 tvg-logo="http://i.imgur.com/hC90L3k.png" group-title="RADIO 2", Rádio Imbé FM
-http://noasrv.caster.fm:10135/stream
+#EXTINF: -1 tvg-name="GLOBO RJ SD²" tvg-logo="https://i.imgur.com/tKp9QWD.png", GLOBO RJ SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/595
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="https://i.imgur.com/XbsLeWW.png", BAND NEWS SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/842
+#EXTINF: -1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="https://3.bp.blogspot.com/-uRmPHuH0Nq0/XpSRkyOBozI/AAAAAAAACvI/XRneLRhfGWQ6f0W1KtSe_LoxLSp5GPIvwCK4BGAYYCw/s400/cnn%2Bbrasil.png", CNN BRASIL SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/849
+#EXTINF: -1 tvg-id="jovempannews.br" tvg-name="JOVEM PAM NEWS NEWS SD²" tvg-logo="https://i.imgur.com/E2cY37D.png", JOVEM PAM NEWS NEWS SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/874
+#EXTINF: -1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="https://i.imgur.com/0xBTmQN.png", RECORD NEWS SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/880
+#EXTINF: -1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="https://i.imgur.com/7Fldyki.png", PREMIERE CLUBES SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/887
+#EXTINF: -1 tvg-name="RECORD RJ SD²" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png", RECORD RJ SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/990
+#EXTINF: -1 tvg-name="SBT SD²" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png", SBT SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/1049
+#EXTINF: -1 tvg-id="redetv.br" tvg-name="REDE TV SD²" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png", REDE TV SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/1524
+#EXTINF: -1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png", GNT SD
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/1691
+#EXTINF: -1 tvg-id="band.br" tvg-name="BAND RJ SD²" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/BAND.png", BAND RJ SD²
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/1722
+#EXTINF: -1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png", COMEDY CENTRAL SD
+#EXTGRP:TV ABERTA
+http://lista.iptvagora.com:25461/8967027327/027327/8264
+#EXTINF: -1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="http://origemdasfontes.ga:80/images/d5b4ed68f7ede16104811926f80a400b.png", TELECINE ACTION SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1088
+#EXTINF: -1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://i.imgur.com/a1MplP5.png", TELECINE ACTION SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1092
+#EXTINF: -1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="http://origemdasfontes.ga:80/images/0e3fe2435ca4c9738d95c2a1a7eac26e.png", TELECINE CULT SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1096
+#EXTINF: -1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://i.imgur.com/YbyynJv.png", TELECINE CULT SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1100
+#EXTINF: -1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="http://origemdasfontes.ga:80/images/9c4e44e7f71a49393da9c85e19b4e5a0.png", TELECINE FUN SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1104
+#EXTINF: -1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://i.imgur.com/49nh1wL.png", TELECINE FUN SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1108
+#EXTINF: -1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="http://origemdasfontes.ga:80/images/be38120d2f2c49a4df11a4832a0221be.png", TELECINE PIPOCA SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1112
+#EXTINF: -1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="https://i.imgur.com/NxQKbyQ.png", TELECINE PIPOCA SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1116
+#EXTINF: -1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="http://origemdasfontes.ga:80/images/78bb098aa01c33060a7c7fef387c8c02.png", TELECINE PREMIUM SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1120
+#EXTINF: -1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="https://i.imgur.com/FpddICg.png", TELECINE PREMIUM SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1124
+#EXTINF: -1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="http://origemdasfontes.ga:80/images/5c7459220d94945b06ac0f60d2c2003e.png", TELECINE TOUCH SD¹
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1128
+#EXTINF: -1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://i.imgur.com/MvEwir3.png", TELECINE TOUCH SD²
+#EXTGRP:TELECINE
+http://lista.iptvagora.com:25461/8967027327/027327/1132
+#EXTINF: -1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="http://origemdasfontes.ga:80/images/483aefe19311a4908641f31de058c738.png", HBO SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/660
+#EXTINF: -1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSD²t9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png", HBO SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/664
+#EXTINF: -1 tvg-id="hbo2.br" tvg-name="HBO2 SD¹" tvg-logo="http://origemdasfontes.ga:80/images/4afef987f0ce46bef6411d73545ed330.png", HBO2 SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/668
+#EXTINF: -1 tvg-id="hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png", HBO 2 SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/671
+#EXTINF: -1 tvg-id="hboplusbrasil.br" tvg-name="HBO+ SD¹" tvg-logo="http://origemdasfontes.ga:80/images/69ec7f5ce4220e8b884e4eaa2fd86b21.png", HBO+ SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/674
+#EXTINF: -1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD²" tvg-logo="https://i.imgur.com/ohFIcQ8.png", HBO PLUS SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/678
+#EXTINF: -1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD¹" tvg-logo="http://origemdasfontes.ga:80/images/0c24725633c13e15c8e967684459ab85.png", HBO FAMILY SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/682
+#EXTINF: -1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD²" tvg-logo="https://i.imgur.com/alOqjXS.png", HBO FAMILY SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/686
+#EXTINF: -1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="http://origemdasfontes.ga:80/images/652b2884c91e14c6b4c0259972ad2529.png", HBO MUNDI SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/694
+#EXTINF: -1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD²" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png", HBO MUNDI SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/698
+#EXTINF: -1 tvg-id="hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="http://origemdasfontes.ga:80/images/8858dea09673af534c5136d37363c282.png", HBO POP SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/702
+#EXTINF: -1 tvg-id="hbopop.br" tvg-name="HBO POP SD²" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png", HBO POP SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/706
+#EXTINF: -1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="http://origemdasfontes.ga:80/images/6c6f43912d256c18d44948d5909cddd3.png", HBO SIGNATURE SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/710
+#EXTINF: -1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="https://i.imgur.com/vuLKMg0.png", HBO SIGNATURE SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/714
+#EXTINF: -1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD¹" tvg-logo="http://origemdasfontes.ga:80/images/55b3df702aafdeac2c209b9e447a6ea1.png", HBO XTREME SD¹
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/718
+#EXTINF: -1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD²" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png", HBO XTREME SD²
+#EXTGRP:HBO
+http://lista.iptvagora.com:25461/8967027327/027327/722
+#EXTINF: -1 tvg-name="MULTISHOW SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/1200px-Multishow.png", MULTISHOW SD¹
+#EXTGRP:TNT SERIES
+http://lista.iptvagora.com:25461/8967027327/027327/813
+#EXTINF: -1 tvg-name="MTV SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png", MTV SD¹
+#EXTGRP:TNT SERIES
+http://lista.iptvagora.com:25461/8967027327/027327/820
+#EXTINF: -1 tvg-id="aande.br" tvg-name="A&E SD¹" tvg-logo="http://origemdasfontes.ga:80/images/7f59ab3748b3b950767ca2eae3b9783b.png", A&E SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/278
+#EXTINF: -1 tvg-id="aande.br" tvg-name="A&E SD²" tvg-logo="https://i.imgur.com/PSBV0fN.png", A&E SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/281
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC SD¹" tvg-logo="http://origemdasfontes.ga:80/images/dc8dfd2adec75d61ef776828011b43b5.png", AMC SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/285
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png", AMC SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/288
+#EXTINF: -1 tvg-id="axn.br" tvg-name="AXN SD¹" tvg-logo="http://origemdasfontes.ga:80/images/625fa0bfdb706073072b1d52884d47c6.png", AXN SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/292
+#EXTINF: -1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png", AXN SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/295
+#EXTINF: -1 tvg-name="CINE PIPOCA 01 HD¹" tvg-logo="http://origemdasfontes.ga:80/images/9a4e71b8a70ab294477d99a9537056bc.png", CINE PIPOCA 01 HD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/298
+#EXTINF: -1 tvg-name="CINE PIPOCA 02 HD¹" tvg-logo="http://origemdasfontes.ga:80/images/9a4e71b8a70ab294477d99a9537056bc.png", CINE PIPOCA 02 HD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/299
+#EXTINF: -1 tvg-name="CINE PIPOCA 03 HD¹" tvg-logo="http://origemdasfontes.ga:80/images/9a4e71b8a70ab294477d99a9537056bc.png", CINE PIPOCA 03 HD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/300
+#EXTINF: -1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/9fbb133085077f34fb18e2d3ce694cbb.png", CANAL BRASIL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/306
+#EXTINF: -1 tvg-id="cinemax.br" tvg-name="CINEMAX SD¹" tvg-logo="http://origemdasfontes.ga:80/images/3ef599d83e0b3089fb9c0d91ba34104b.png", CINEMAX SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/312
+#EXTINF: -1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://i.imgur.com/oWZLwlX.png", CINEMAX SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/315
+#EXTINF: -1 tvg-id="fx.br" tvg-name="FX SD¹" tvg-logo="http://origemdasfontes.ga:80/images/1ef661ffdc823a25059e6372e4fe132a.png", FX SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/319
+#EXTINF: -1 tvg-id="fx.br" tvg-name="FX SD²" tvg-logo="https://2.bp.blogspot.com/-fOTJe1eLQu8/XmRL8F5zoiI/AAAAAAAACT4/jtwEeYduL-Eduk2F_RswbLvxRrKl6jgsQCK4BGAYYCw/s400/FX.png", FX SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/322
+#EXTINF: -1 tvg-id="lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="https://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png", LIFETIME SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/326
+#EXTINF: -1 tvg-name="MAIS NA TELA SD¹" tvg-logo="http://origemdasfontes.ga:80/images/32c9edb23171d07c157de648c13ba79c.png", MAIS NA TELA SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/327
+#EXTINF: -1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="http://origemdasfontes.ga:80/images/f65e368784eb38be5e814f4c16bdb5fd.png", MEGAPIX SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/332
+#EXTINF: -1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png", MEGAPIX SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/335
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/43279a5517142574ab2b6bfffdfb095e.png", PARAMOUNT CHANNEL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/339
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD²" tvg-logo="https://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png", PARAMOUNT CHANNEL SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/342
+#EXTINF: -1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="http://origemdasfontes.ga:80/images/ae907d7caff4861d7bbafe30fcd452d8.png", SPACE SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/346
+#EXTINF: -1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://i.imgur.com/iV0iBKf.png", SPACE SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/349
+#EXTINF: -1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/9da08cfc8d27a84ea6712d0ebe696f5d.png", STAR CHANNEL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/353
+#EXTINF: -1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL SD²" tvg-logo="https://i.imgur.com/cEmW9yV.png", STAR CHANNEL SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/356
+#EXTINF: -1 tvg-id="starlife.br" tvg-name="STAR LIFE SD²" tvg-logo="https://i.imgur.com/k3cqCKV.png", STAR LIFE SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/360
+#EXTINF: -1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/4705ca43f1b126956b543a3251573b00.png", STUDIO UNIVERSAL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/363
+#EXTINF: -1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="https://i.imgur.com/Ei2aciR.png", STUDIO UNIVERSAL SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/366
+#EXTINF: -1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="https://i.imgur.com/30eQIBh.png", SONY SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/370
+#EXTINF: -1 tvg-id="syfy.br" tvg-name="SYFY SD¹" tvg-logo="http://origemdasfontes.ga:80/images/d838a05d4e2205df5a9e7a14086cfa41.png", SYFY SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/373
+#EXTINF: -1 tvg-id="syfy.br" tvg-name="SYFY SD²" tvg-logo="https://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png", SYFY SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/376
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TBS SD¹" tvg-logo="http://origemdasfontes.ga:80/images/129ef356010d89628fcab389c29f984c.png", TBS SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/380
+#EXTINF: -1 tvg-id="tcm.br" tvg-name="TCM SD¹" tvg-logo="http://origemdasfontes.ga:80/images/adcabffb70eed28ffa5a2db94dbecb08.png", TCM SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/386
+#EXTINF: -1 tvg-id="tcm.br" tvg-name="TCM SD²" tvg-logo="https://1.bp.blogspot.com/-ejxsKor1rMM/Xs6r7OACh6I/AAAAAAAAF-Y/xpIIigM60HcE0CsVPuQ_lAvCFZjCN9exgCLcBGAsYHQ/s1600/TCM.png", TCM SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/389
+#EXTINF: -1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="http://origemdasfontes.ga:80/images/9aac5f748bde92a587ccc720253f79a4.png", TLC SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/392
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="http://origemdasfontes.ga:80/images/6a7ef638f3cacf258370a83d3dc741ff.png", TNT SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/395
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT SD²" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png", TNT SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/398
+#EXTINF: -1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD¹" tvg-logo="http://origemdasfontes.ga:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png", TNT SERIES SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/402
+#EXTINF: -1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD²" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png", TNT SERIES SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/405
+#EXTINF: -1 tvg-id="universalhd.br" tvg-name="UNIVERSAL CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/c72dc58420bf5bb9bfd5792b75564396.png", UNIVERSAL CHANNEL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/410
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD²" tvg-logo="https://i.imgur.com/DwTOLsG.png", UNIVERSAL TV SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/413
+#EXTINF: -1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/32bec5a0b2016ab5da62f445f892319f.png", WARNER CHANNEL SD¹
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/416
+#EXTINF: -1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="https://i.imgur.com/VG7r76S.png", WARNER CHANNEL SD²
+#EXTGRP:FILMES TV
+http://lista.iptvagora.com:25461/8967027327/027327/419
+#EXTINF: -1 tvg-name="[24H]³ Boku No Hero Academia [S01]" tvg-logo="http://p6.vc/DG", [24H]³ Boku No Hero Academia [S01]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5460
+#EXTINF: -1 tvg-name="[24H]³ Boku No Hero Academia [S02]" tvg-logo="http://p6.vc/DF", [24H]³ Boku No Hero Academia [S02]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5461
+#EXTINF: -1 tvg-name="[24H]³ Boku No Hero Academia [S03]" tvg-logo="http://p6.vc/DE", [24H]³ Boku No Hero Academia [S03]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5462
+#EXTINF: -1 tvg-name="[24H]³ Boku No Hero Academia [S04]" tvg-logo="http://p6.vc/DD", [24H]³ Boku No Hero Academia [S04]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5463
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S01]" tvg-logo="http://p6.vc/FS", [24H]³ Chaves [S01]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5474
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S02]" tvg-logo="http://p6.vc/FR", [24H]³ Chaves [S02]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5475
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S03]" tvg-logo="http://p6.vc/FQ", [24H]³ Chaves [S03]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5476
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S04]" tvg-logo="http://p6.vc/FP", [24H]³ Chaves [S04]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5477
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S05]" tvg-logo="http://p6.vc/FO", [24H]³ Chaves [S05]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5478
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S06]" tvg-logo="http://p6.vc/FN", [24H]³ Chaves [S06]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5479
+#EXTINF: -1 tvg-name="[24H]³ Chaves [S07]" tvg-logo="http://p6.vc/FM", [24H]³ Chaves [S07]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5480
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S01]" tvg-logo="http://p6.vc/RN", [24H]³ Os Simpsons [S01]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5697
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S02]" tvg-logo="http://p6.vc/RM", [24H]³ Os Simpsons [S02]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5698
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S03]" tvg-logo="http://p6.vc/RL", [24H]³ Os Simpsons [S03]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5699
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S04]" tvg-logo="http://p6.vc/RK", [24H]³ Os Simpsons [S04]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5700
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S05]" tvg-logo="http://p6.vc/RJ", [24H]³ Os Simpsons [S05]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5701
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S06]" tvg-logo="http://p6.vc/RI", [24H]³ Os Simpsons [S06]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5702
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S07]" tvg-logo="http://p6.vc/RH", [24H]³ Os Simpsons [S07]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5703
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S08]" tvg-logo="http://p6.vc/RG", [24H]³ Os Simpsons [S08]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5704
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S09]" tvg-logo="http://p6.vc/RF", [24H]³ Os Simpsons [S09]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5705
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S10]" tvg-logo="http://p6.vc/RE", [24H]³ Os Simpsons [S10]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5706
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S11]" tvg-logo="http://p6.vc/RD", [24H]³ Os Simpsons [S11]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5707
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S12]" tvg-logo="http://p6.vc/RC", [24H]³ Os Simpsons [S12]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5708
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S13]" tvg-logo="http://p6.vc/RB", [24H]³ Os Simpsons [S13]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5709
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S14]" tvg-logo="http://p6.vc/RA", [24H]³ Os Simpsons [S14]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5710
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S15]" tvg-logo="http://p6.vc/QZ", [24H]³ Os Simpsons [S15]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5711
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S16]" tvg-logo="http://p6.vc/QY", [24H]³ Os Simpsons [S16]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5712
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S17]" tvg-logo="http://p6.vc/QX", [24H]³ Os Simpsons [S17]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5713
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S18]" tvg-logo="http://p6.vc/QW", [24H]³ Os Simpsons [S18]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5714
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S19]" tvg-logo="http://p6.vc/QV", [24H]³ Os Simpsons [S19]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5715
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S20]" tvg-logo="http://p6.vc/QU", [24H]³ Os Simpsons [S20]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5716
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S21]" tvg-logo="http://p6.vc/QT", [24H]³ Os Simpsons [S21]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5717
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S22]" tvg-logo="http://p6.vc/QS", [24H]³ Os Simpsons [S22]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5718
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S23]" tvg-logo="http://p6.vc/QR", [24H]³ Os Simpsons [S23]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5719
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S24]" tvg-logo="http://p6.vc/QQ", [24H]³ Os Simpsons [S24]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5720
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S25]" tvg-logo="http://p6.vc/QP", [24H]³ Os Simpsons [S25]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5721
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S26]" tvg-logo="http://p6.vc/QO", [24H]³ Os Simpsons [S26]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5722
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S27]" tvg-logo="http://p6.vc/QN", [24H]³ Os Simpsons [S27]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5723
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S28]" tvg-logo="http://p6.vc/QM", [24H]³ Os Simpsons [S28]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5724
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S29]" tvg-logo="http://p6.vc/QL", [24H]³ Os Simpsons [S29]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5725
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S30]" tvg-logo="http://p6.vc/SE", [24H]³ Os Simpsons [S30]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5726
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S31]" tvg-logo="http://p6.vc/SD", [24H]³ Os Simpsons [S31]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5727
+#EXTINF: -1 tvg-name="[24H]³ Os Simpsons [S32]" tvg-logo="http://p6.vc/SC", [24H]³ Os Simpsons [S32]
+#EXTGRP:CANAIS 24HS
+http://lista.iptvagora.com:25461/8967027327/027327/5728
+#EXTINF: -1 tvg-name="BABY TV SD¹" tvg-logo="http://origemdasfontes.ga:80/images/76bc1b9649b0edbf7cd18dd6c4fb05f5.png", BABY TV SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/729
+#EXTINF: -1 tvg-name="CARTOONITO SD¹" tvg-logo="http://origemdasfontes.ga:80/images/dd02529659d42a9a11bee759de133674.png", CARTOONITO SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/733
+#EXTINF: -1 tvg-name="CARTOONITO SD²" tvg-logo="https://i.imgur.com/kTObhk1.png", CARTOONITO SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/736
+#EXTINF: -1 tvg-name="CARTOON NETWORK SD¹" tvg-logo="http://origemdasfontes.ga:80/images/e4c3a979c4f6da76d2427622ec40e956.png", CARTOON NETWORK SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/739
+#EXTINF: -1 tvg-name="CARTOON NETWORK SD²" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png", CARTOON NETWORK SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/742
+#EXTINF: -1 tvg-name="DISNEY CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/bde53348abffee8c63db681215ce217b.png", DISNEY CHANNEL SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/745
+#EXTINF: -1 tvg-name="DISNEY CHANNEL SD²" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png", DISNEY CHANNEL SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/748
+#EXTINF: -1 tvg-name="DISCOVERY KIDS SD¹" tvg-logo="http://origemdasfontes.ga:80/images/26ff9ebae21e6af6418f3aeae370b897.png", DISCOVERY KIDS SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/752
+#EXTINF: -1 tvg-name="DISCOVERY KIDS SD²" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png", DISCOVERY KIDS SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/755
+#EXTINF: -1 tvg-name="GLOOB SD¹" tvg-logo="http://origemdasfontes.ga:80/images/7a518c50ae3dbd1676205a1bc3382d8b.png", GLOOB SD¹
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/759
+#EXTINF: -1 tvg-name="GLOOB SD²" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png", GLOOB SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/762
+#EXTINF: -1 tvg-name="GLOOBINHO SD²" tvg-logo="https://1.bp.blogspot.com/-7SD²hnvUtEPE/Xs6cEfXF-3I/AAAAAAAAF9Y/rPBaexsYDfIepZeOjx_Z-PMhVaMm_NN-gCLcBGAsYHQ/s1600/GLOOBINHO.png", GLOOBINHO SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/766
+#EXTINF: -1 tvg-name="NICK JR SD²" tvg-logo="https://1.bp.blogspot.com/-thB8BgXTYgk/Xk70c2Wv28I/AAAAAAAACGE/wdseOpQ-3jkj2n1e2QMaIrQnB4a70yzFQCLcBGAsYHQ/s1600/nickjr.png", NICK JR SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/772
+#EXTINF: -1 tvg-name="NICKELODEON SD²" tvg-logo="https://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png", NICKELODEON SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/779
+#EXTINF: -1 tvg-name="TOONCAST SD²" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png", TOONCAST SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/785
+#EXTINF: -1 tvg-name="TV RA TIM BUM SD²" tvg-logo="https://2.bp.blogspot.com/-PoyMSzIr24E/XupD-zDa27I/AAAAAAAAGWo/1bPCe_4hEW0okuEXraZhm-OulljSc-xjQCK4BGAYYCw/s400/tv%2Bra%2Btim%2Bbum.png", TV RA TIM BUM SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/789
+#EXTINF: -1 tvg-name="ZOOMOO SD²" tvg-logo="https://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnSD²wCK4BGAYYCw/s400/zoomoo.png", ZOOMOO SD²
+#EXTGRP:INFANTIL
+http://lista.iptvagora.com:25461/8967027327/027327/792
