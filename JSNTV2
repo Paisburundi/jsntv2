@@ -1,6 +1,12 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="GloboRJ.br" tvg-name="Globo Rio SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV ABERTA", Globo Rio SD¹
 http://milka99.xyz:80/640505598007/204940532052/73089
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="Band SP SD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV ABERTA", Band SP SD¹
+http://milka99.xyz:80/640505598007/204940532052/89641
+#EXTINF: -1 tvg-id="RecordTV.br" tvg-name="Record Rio HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV ABERTA", Record Rio HD
+http://milka99.xyz:80/640505598007/204940532052/28748
+#EXTINF: -1 tvg-id="Redetv.br" tvg-name="RedeTV! HD¹" tvg-logo="http://go555.xyz:80/images/caf8f8a6082d14fe697e9b514a10a12b.png" group-title="TV ABERTA", RedeTV! HD¹
+http://milka99.xyz:80/640505598007/204940532052/6753
 #EXTINF: -1 tvg-id="Sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://go555.xyz:80/images/3683a47706db2255588de8c97e3e9ebc.png" group-title="PREMIERE", SPORTV SD¹
 http://milka99.xyz:80/640505598007/204940532052/33851
 #EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SPORTV2 SD¹" tvg-logo="http://go555.xyz:80/images/0432847df4ab44c0ec18243223fbec16.png" group-title="PREMIERE", SPORTV2 SD¹
@@ -13,8 +19,6 @@ http://milka99.xyz:80/640505598007/204940532052/40544
 http://milka99.xyz:80/640505598007/204940532052/40545
 #EXTINF: -1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="PREMIERE", PREMIERE 3 SD¹
 http://milka99.xyz:80/640505598007/204940532052/40546
-#EXTINF: -1 tvg-id="ESPNBrasil.br" tvg-name="ESPN SD¹" tvg-logo="http://go555.xyz:80/images/30853d5b01066de33816a245bca5cdd9.png" group-title="PREMIERE", ESPN SD¹
-http://milka99.xyz:80/640505598007/204940532052/33850
 #EXTINF: -1 tvg-id="Combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://images2.imgbox.com/01/2b/ltjrjsnu_o.png" group-title="PREMIERE", COMBATE SD¹
 http://milka99.xyz:80/640505598007/204940532052/33881
 #EXTINF: -1 tvg-name="24HS Apenas um Show³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="24HS - INFANTIL", 24HS Apenas um Show³
@@ -37,8 +41,6 @@ http://milka99.xyz:80/640505598007/204940532052/88639
 http://milka99.xyz:80/640505598007/204940532052/91985
 #EXTINF: -1 tvg-name="24HS Simpson 2." tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="24HS - INFANTIL", 24HS Simpson 2.
 http://milka99.xyz:80/640505598007/204940532052/91986
-#EXTINF: -1 tvg-name="24HS Thundercats" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="24HS - INFANTIL", 24HS Thundercats
-http://milka99.xyz:80/640505598007/204940532052/72707
 #EXTINF: -1 tvg-name="24HS A Grande Família" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="24HS - SERIES", 24HS A Grande Família
 http://milka99.xyz:80/640505598007/204940532052/62878
 #EXTINF: -1 tvg-name="24HS Aeroporto - Área Restrita" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="24HS - SERIES", 24HS Aeroporto - Área Restrita
@@ -127,3 +129,97 @@ http://milka99.xyz:80/640505598007/204940532052/6708
 http://milka99.xyz:80/640505598007/204940532052/6690
 #EXTINF: -1 tvg-id="UniversalChannel.br" tvg-name="UNIVERSAL TV HD¹" tvg-logo="http://go555.xyz:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="FILMES E SERIES", UNIVERSAL TV HD¹
 http://milka99.xyz:80/640505598007/204940532052/6685
+#EXTINF: -1 tvg-name="01. Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg" group-title="MEUS FILMES", 01. Capitão América: O Primeiro Vingador (2011)
+http://milka99.xyz:80/movie/640505598007/204940532052/1085.mkv
+#EXTINF: -1 tvg-name="02. Capitã Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="MEUS FILMES", 02. Capitã Marvel (2019)
+http://milka99.xyz:80/movie/640505598007/204940532052/1086.mkv
+#EXTINF: -1 tvg-name="03. O Incrível Hulk (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="MEUS FILMES", 03. O Incrível Hulk (2008)
+http://milka99.xyz:80/movie/640505598007/204940532052/1087.mkv
+#EXTINF: -1 tvg-name="04. Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="MEUS FILMES", 04. Homem de Ferro (2008)
+http://milka99.xyz:80/movie/640505598007/204940532052/1089.mkv
+#EXTINF: -1 tvg-name="05. Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="MEUS FILMES", 05. Homem de Ferro 2 (2010)
+http://milka99.xyz:80/movie/640505598007/204940532052/1090.mkv
+#EXTINF: -1 tvg-name="06. Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimMyzCkPR2buxVL7be1ceuNeH.jpg" group-title="MEUS FILMES", 06. Thor (2011)
+http://milka99.xyz:80/movie/640505598007/204940532052/1091.mkv
+#EXTINF: -1 tvg-name="07. Os Vingadores (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg" group-title="MEUS FILMES", 07. Os Vingadores (2012)
+http://milka99.xyz:80/movie/640505598007/204940532052/1092.mkv
+#EXTINF: -1 tvg-name="08. Homem de Ferro 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg" group-title="MEUS FILMES", 08. Homem de Ferro 3 (2013)
+http://milka99.xyz:80/movie/640505598007/204940532052/1093.mkv
+#EXTINF: -1 tvg-name="09. Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="MEUS FILMES", 09. Thor: O Mundo Sombrio (2013)
+http://milka99.xyz:80/movie/640505598007/204940532052/1094.mkv
+#EXTINF: -1 tvg-name="10. Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg" group-title="MEUS FILMES", 10. Capitão América 2: O Soldado Invernal (2014)
+http://milka99.xyz:80/movie/640505598007/204940532052/1095.mkv
+#EXTINF: -1 tvg-name="11. Guardiões da Galáxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="MEUS FILMES", 11. Guardiões da Galáxia (2014)
+http://milka99.xyz:80/movie/640505598007/204940532052/1096.mkv
+#EXTINF: -1 tvg-name="12. Guardiões da Galáxia Vol. 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="MEUS FILMES", 12. Guardiões da Galáxia Vol. 2 (2017)
+http://milka99.xyz:80/movie/640505598007/204940532052/1097.mkv
+#EXTINF: -1 tvg-name="13. Vingadores: Era de Ultron (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg" group-title="MEUS FILMES", 13. Vingadores: Era de Ultron (2015)
+http://milka99.xyz:80/movie/640505598007/204940532052/1098.mkv
+#EXTINF: -1 tvg-name="14. Homem-Formiga (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZS7MdWHRJoCfdMryc6wQiS23pb.jpg" group-title="MEUS FILMES", 14. Homem-Formiga (2015)
+http://milka99.xyz:80/movie/640505598007/204940532052/1099.mkv
+#EXTINF: -1 tvg-name="15. Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg" group-title="MEUS FILMES", 15. Capitão América: Guerra Civil (2016)
+http://milka99.xyz:80/movie/640505598007/204940532052/1100.mkv
+#EXTINF: -1 tvg-name="16. Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="MEUS FILMES", 16. Homem-Aranha: De Volta ao Lar (2017)
+http://milka99.xyz:80/movie/640505598007/204940532052/1101.mkv
+#EXTINF: -1 tvg-name="17. Viúva Negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="MEUS FILMES", 17. Viúva Negra (2021)
+http://milka99.xyz:80/movie/640505598007/204940532052/38101.mkv
+#EXTINF: -1 tvg-name="18. Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="MEUS FILMES", 18. Doutor Estranho (2016)
+http://milka99.xyz:80/movie/640505598007/204940532052/1102.mkv
+#EXTINF: -1 tvg-name="19. Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="MEUS FILMES", 19. Pantera Negra (2018)
+http://milka99.xyz:80/movie/640505598007/204940532052/1103.mkv
+#EXTINF: -1 tvg-name="20. Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg" group-title="MEUS FILMES", 20. Thor: Ragnarok (2017)
+http://milka99.xyz:80/movie/640505598007/204940532052/1115.mkv
+#EXTINF: -1 tvg-name="21. Homem-Formiga e a Vespa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="MEUS FILMES", 21. Homem-Formiga e a Vespa (2018)
+http://milka99.xyz:80/movie/640505598007/204940532052/1116.mkv
+#EXTINF: -1 tvg-name="22. Vingadores: Guerra Infinita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg" group-title="MEUS FILMES", 22. Vingadores: Guerra Infinita (2018)
+http://milka99.xyz:80/movie/640505598007/204940532052/1117.mkv
+#EXTINF: -1 tvg-name="23. Vingadores: Ultimato (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="MEUS FILMES", 23. Vingadores: Ultimato (2019)
+http://milka99.xyz:80/movie/640505598007/204940532052/1118.mkv
+#EXTINF: -1 tvg-name="24. Homem-Aranha: Longe de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="MEUS FILMES", 24. Homem-Aranha: Longe de Casa (2019)
+http://milka99.xyz:80/movie/640505598007/204940532052/1119.mkv
+#EXTINF: -1 tvg-name="25. Shang-Chi e a Lenda dos Dez Anéis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="MEUS FILMES", 25. Shang-Chi e a Lenda dos Dez Anéis (2021)
+http://milka99.xyz:80/movie/640505598007/204940532052/54503.mkv
+#EXTINF: -1 tvg-name="26. Eternos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="MEUS FILMES", 26. Eternos (2021)
+http://milka99.xyz:80/movie/640505598007/204940532052/58844.mkv
+#EXTINF: -1 tvg-id="ComedyCentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="https://img.utdstc.com/icon/270/8c5/2708c5fe1f2ae7e7eb301ab47d63536159fb29a8394fcc1e388389527eda1925:200" group-title="ENTRETERIMENTO", COMEDY CENTRAL HD¹
+http://milka99.xyz:80/640505598007/204940532052/14137
+#EXTINF: -1 tvg-id="FilmAndArts.mx" tvg-name="FILM&ARTS HD¹" tvg-logo="https://images2.imgbox.com/f8/ed/8CLd9sxS_o.png" group-title="ENTRETERIMENTO", FILM&ARTS HD¹
+http://milka99.xyz:80/640505598007/204940532052/6819
+#EXTINF: -1 tvg-name="LIKE HD¹" tvg-logo="https://images2.imgbox.com/7c/ec/MXBnVhn9_o.png" group-title="ENTRETERIMENTO", LIKE HD¹
+http://milka99.xyz:80/640505598007/204940532052/16508
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://go555.xyz:80/images/f07ea42923bf006c9a73e046c192c0c2.png" group-title="ENTRETERIMENTO", LIFETIME HD¹
+http://milka99.xyz:80/640505598007/204940532052/28696
+#EXTINF: -1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="http://go555.xyz:80/images/84b313682fe600ca3592b5abe6504045.png" group-title="ENTRETERIMENTO", MULTISHOW HD¹
+http://milka99.xyz:80/640505598007/204940532052/28705
+#EXTINF: -1 tvg-id="Viva.br" tvg-name="VIVA HD¹" tvg-logo="http://go555.xyz:80/images/d2dbaa1ad9992509892013faf142c225.png" group-title="ENTRETERIMENTO", VIVA HD¹
+http://milka99.xyz:80/640505598007/204940532052/6681
+#EXTINF: -1 tvg-name="SHOPTIME¹" tvg-logo="https://images2.imgbox.com/7f/da/G3sxLMRW_o.png" group-title="ENTRETERIMENTO", SHOPTIME¹
+http://milka99.xyz:80/640505598007/204940532052/64195
+#EXTINF: -1 tvg-name="POLISHOP¹" tvg-logo="https://images2.imgbox.com/31/be/TeBHzv8Y_o.png" group-title="ENTRETERIMENTO", POLISHOP¹
+http://milka99.xyz:80/640505598007/204940532052/64209
+#EXTINF: -1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://go555.xyz:80/images/e1eb02c682902e1556137efc0647ca4f.png" group-title="CULTURA", ANIMAL PLANET HD¹
+http://milka99.xyz:80/640505598007/204940532052/6880
+#EXTINF: -1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://go555.xyz:80/images/58c354bad2d6776e4d9ab3196019712f.png" group-title="CULTURA", DISCOVERY CHANNEL HD¹
+http://milka99.xyz:80/640505598007/204940532052/28522
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://go555.xyz:80/images/1dfd57d199b2394a8f610bbc4f44b5cc.png" group-title="CULTURA", DISCOVERY SCIENCE HD¹
+http://milka99.xyz:80/640505598007/204940532052/6842
+#EXTINF: -1 tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="https://images2.imgbox.com/ce/2a/q11PMiIm_o.png" group-title="CULTURA", DISCOVERY THEATER HD¹
+http://milka99.xyz:80/640505598007/204940532052/28532
+#EXTINF: -1 tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://go555.xyz:80/images/03443a8a2b6fba1a691e7110776f526e.png" group-title="CULTURA", DISCOVERY TURBO HD¹
+http://milka99.xyz:80/640505598007/204940532052/28537
+#EXTINF: -1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://go555.xyz:80/images/e59d7cfd16719738261d8214ca72fb15.png" group-title="CULTURA", DISCOVERY WORLD HD¹
+http://milka99.xyz:80/640505598007/204940532052/28540
+#EXTINF: -1 tvg-id="HistoryChannel.br" tvg-name="HISTORY HD¹" tvg-logo="http://go555.xyz:80/images/6fc35d7aa7fc2cb9b8d1b1fe877838c6.png" group-title="CULTURA", HISTORY HD¹
+http://milka99.xyz:80/640505598007/204940532052/28692
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="HISTORY 2 HD¹" tvg-logo="https://images2.imgbox.com/cf/a0/v7Zqjz4r_o.png" group-title="CULTURA", HISTORY 2 HD¹
+http://milka99.xyz:80/640505598007/204940532052/28667
+#EXTINF: -1 tvg-id="InvestigacaoDiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="http://go555.xyz:80/images/54b039762b0fa8fa1a376fda540a1f71.png" group-title="CULTURA", ID - INVESTIGAÇÃO DISCOVERY HD¹
+http://milka99.xyz:80/640505598007/204940532052/28694
+#EXTINF: -1 tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD¹" tvg-logo="http://go555.xyz:80/images/1f9367e033389dad475d69d75e30518f.png" group-title="CULTURA", NATIONAL GEOGRAPHIC HD¹
+http://milka99.xyz:80/640505598007/204940532052/28708
+#EXTINF: -1 tvg-name="24HS Thundercats" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="Possivel Falha", 24HS Thundercats
+http://milka99.xyz:80/640505598007/204940532052/72707
+#EXTINF: -1 tvg-id="ESPNBrasil.br" tvg-name="ESPN SD¹" tvg-logo="http://go555.xyz:80/images/30853d5b01066de33816a245bca5cdd9.png" group-title="Possivel Falha", ESPN SD¹
+http://milka99.xyz:80/640505598007/204940532052/33850
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT SP SD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Possivel Falha", SBT SP SD¹
+http://milka99.xyz:80/640505598007/204940532052/89587
